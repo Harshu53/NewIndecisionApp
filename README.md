@@ -1,2 +1,0 @@
-# NewIndecisionApp
-Created with CodeSandbox
